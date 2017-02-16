@@ -72,3 +72,5 @@ if ('addEventListener' in document) {
         app.inicio();
     }, false);
 }
+
+//Eso esta mal locoooooooo!!
